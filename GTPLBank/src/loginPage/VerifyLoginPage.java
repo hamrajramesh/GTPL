@@ -8,7 +8,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class VerifyLoginPage {
 	
 	
-   //verify login page
+        //verify login page
+	//enter username and password
 	public static void main(String[]args) {
 		
 		WebDriver driver= new ChromeDriver();
